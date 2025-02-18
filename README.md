@@ -1,4 +1,4 @@
-Introducing: ##*intheVIEW*
+*intheVIEW*
 
 A SaaS platform that organizes the interview process with AI-driven support, ensuring fairness, transparency, and efficiency for every interviewer.
 
